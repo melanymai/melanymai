@@ -1,7 +1,7 @@
 ### Hello I'm Melany (with a Y) 👋
 
 
-- :blue_heart: I’m currently working on Symfony/Angular projects
+- :blue_heart: I’m currently working on Symfony, Angular, and Vue projects
 - Fun fact : :cat: 🧀:wine_glass: I love cats, cheese & wine
 
 <h3 align="left">Connect with me:</h3>
